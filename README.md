@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I am a first-year Computer Science and Engineering student at Bangalore Institute of Technology, driven by an unwavering passion for programming. My goal is to excel in software engineering by gaining extensive knowledge, practical experience, and contributing to innovative projects in the industry<br><br><b>INTERESTS:</b><br>❖ Love to read tech articles & staying updated about tech trends in different fields specially related to Cyber Security and Exploring Open-Source Innovations and different Tech Stacks.<br>❖ To collaborate with different People for contributing the society.
+I am a second-year Computer Science and Engineering student at Bangalore Institute of Technology, driven by an unwavering passion for programming. My goal is to excel in software engineering by gaining extensive knowledge, practical experience, and contributing to innovative projects in the industry<br><br><b>INTERESTS:</b><br>❖ Love to read tech articles & staying updated about tech trends in different fields specially related to Cyber Security and Exploring Open-Source Innovations and different Tech Stacks.<br>❖ To collaborate with different People for contributing the society.
 
 
 ## 🌐 Socials:
