@@ -23,6 +23,10 @@ I am a second-year Computer Science and Engineering student at Bangalore Institu
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+| 🎵 Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |  
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31om7hrdsyv74rkyhqguyyh7q3ga&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31om7hrdsyv74rkyhqguyyh7q3ga&redirect=true) 
 
   
   
