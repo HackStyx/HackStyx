@@ -8,7 +8,7 @@ I am a second-year Computer Science and Engineering student at Bangalore Institu
 [![linkedin](https://github.com/HackStyx/HackStyx/assets/137396151/fa8e3f5c-9dfa-47f3-a0c1-3226e467fe93)](https://linkedin.com/in/princekumargupta)
 
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ](https://linkedin.com/in/princekumargupta)
+ [![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://github.com/HackStyx/HackStyx/assets/137396151/fa8e3f5c-9dfa-47f3-a0c1-3226e467fe93)) ](https://linkedin.com/in/princekumargupta)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heyy_im.prince) 
 
 # 💻 Tech Stack:
