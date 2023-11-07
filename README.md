@@ -6,7 +6,7 @@
 I am a Second-year Computer Science and Engineering student at Bangalore Institute of Technology, driven by an unwavering passion for programming. My goal is to excel in Software Engineering by gaining extensive knowledge, practical experience, and contributing to innovative projects in the industry<br><br><b>INTERESTS:</b><br>❖ Love to read Tech articles & staying updated about tech trends in different fields specially related to Cyber Security and Exploring Open-Source Innovations and different Tech Stacks.<br>❖ To collaborate with different People for Contributing the society.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://github.com/HackStyx/HackStyx/blob/7618b1269f7ab0dfdc5f8b736ca7bf459337f3c7/Social%20Icons/linkedin.png)](https://linkedin.com/in/princekumargupta) [![Instagram](https://github.com/HackStyx/HackStyx/blob/a7d66c1f7ed53994243e090b7248744a46233bf0/Social%20Icons/instagram.png)](https://instagram.com/heyy_im.prince) [![Discord](https://github.com/HackStyx/HackStyx/blob/c2468dacea7e5d7247e126c0280a476eba60229e/Social%20Icons/discord.png)](https://discord.com/users/1014847160329699348) [![YouTube](https://github.com/HackStyx/HackStyx/blob/846a22aafae804d5670dd9cd0077bc079b08fb96/Social%20Icons/youtube.png)](https://youtube.com/@princekumargupta)
 
 
