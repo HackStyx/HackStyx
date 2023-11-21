@@ -52,5 +52,5 @@ I am a Second-year Computer Science and Engineering student at Bangalore Institu
   
   
 
-  ## 💰 You can help me by Donating
- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/HackStyx)
+<h3 align="left">Support:</h3>  
+<p><a href="https://www.buymeacoffee.com/HackStyx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HackStyx" /></a></p><br><br>  
