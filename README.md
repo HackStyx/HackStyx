@@ -37,7 +37,9 @@ I am a Second-year Computer Science and Engineering student at Bangalore Institu
 <div align="left">  
 <a href="https://github.com/HackStyx">  
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HackStyx&theme=2077" height="180em" />  
-</a> </br>  
+</a> 
+</br>  
+</br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HackStyx&theme=chartreuse_dark" height="180em" />  
 </div>  
 
@@ -58,5 +60,5 @@ I am a Second-year Computer Science and Engineering student at Bangalore Institu
   
   
 
-<h3 align="left">Support:</h3>  
+<h3 align="left">💞Support:</h3>  
 <p><a href="https://www.buymeacoffee.com/HackStyx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HackStyx" /></a></p><br><br>  
