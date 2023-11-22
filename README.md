@@ -58,7 +58,6 @@ I am a Second-year Computer Science and Engineering student at Bangalore Institu
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=HackStyx&theme=default"/>  
 
   
-  
 
 <h3 align="left">💞Support:</h3>  
 <p><a href="https://www.buymeacoffee.com/HackStyx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HackStyx" /></a></p><br><br>  
