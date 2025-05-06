@@ -2,7 +2,6 @@
   <img src="https://github.com/HackStyx/HackStyx/assets/137396151/30c3a1b9-b750-4a6c-bd55-0144e85f60f0" alt="Header" />
 </div>
 
----
 
 
 <div align="center">
@@ -118,7 +117,7 @@
 <h2 align="center" style="font-size: 30px;">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HackStyx&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HackStyx&theme=radical" alt="GitHub Streak Stats" />
+<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackStyx&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
