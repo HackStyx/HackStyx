@@ -19,11 +19,7 @@
 
 ---
 
-<br>
-<div align="center">
-  <p style="font-size: 36px; font-weight: bold;">Profile Counter</p>
-  <img src="https://profile-counter.glitch.me/HackStyx/count.svg?" />
-</div>
+
 
 ###
 
