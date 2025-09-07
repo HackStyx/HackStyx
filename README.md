@@ -17,8 +17,6 @@
 
 
 
----
-
 
 
 ###
@@ -108,7 +106,7 @@
   </table>
 </div>
 
----
+
 
 <h2 align="center" style="font-size: 30px;">📊 GitHub Stats</h2>
 <p align="center">
@@ -117,7 +115,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackStyx&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
 <h2 align="center" style="font-size: 30px;">⚡ Activity Graph</h2>
 <p align="center">
@@ -128,3 +125,10 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hackstyx/hackstyx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hackstyx/hackstyx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hackstyx/hackstyx/output/pacman-contribution-graph.svg">
+</picture>
+
+###
