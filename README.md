@@ -35,11 +35,10 @@ I'm **Prince** (aka **HackStyx**) - a Computer Science Engineer who enjoys build
 ### GitHub snapshot
 <p align="center">
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HackStyx&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackStyx&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img alt="Streak stats" src="https://streak-stats.demolab.com?user=HackStyx&theme=tokyonight&hide_border=true" />
+  <img alt="Streak stats" src="https://github-readme-activity-graph.vercel.app/graph?username=HackStyx&theme=default" />
 </p>
 
 ### How I like to work
